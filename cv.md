@@ -14,6 +14,6 @@ I have a secondary specialized education. Now I am studying at BSUIR. I want to 
 
 ### Experience
 Took courses at Itransition (march 2020)\
-[Final project] (https://github.com/atwood-bit/itra-kurs)
+[Final project](https://github.com/atwood-bit/itra-kurs)
 ### English
 A2 (pre-intermediate)
