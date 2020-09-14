@@ -3,9 +3,17 @@
 *E-mail: artemzinko@mail.ru\
 Phone: + 375 (33) 637-89-42 (Telegram, Viber, WhatsApp)*
 ### About Me
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+I have a secondary specialized education. Now I am studying at BSUIR. I want to learn new technology. My main goal is employment
+### Skills
+* HTML5/CSS3
+* JavaScript
+* React JS
+* OOP
+* C#
+* Git
 Примеры кода
-Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.*
-Образование (включая курсы, семинары, лекции, онлайн-обучение)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+### Experience
+Took courses at Itransition (march 2020)\
+[Final project] (https://github.com/atwood-bit/itra-kurs)
+### English
+A2 (pre-intermediate)
