@@ -11,7 +11,7 @@ I have a secondary specialized education. Now I am studying at BSUIR. I want to 
 * OOP
 * C#
 * Git
-Примеры кода
+
 ### Experience
 Took courses at Itransition (march 2020)\
 [Final project] (https://github.com/atwood-bit/itra-kurs)
