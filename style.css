@@ -1,12 +1,84 @@
-.logo {
-  position: absolute;
-  width: 150px;
-  height: 200px;
-  border-radius: 50px; /* Радиус скругления */
-  border: 3px solid black; /* Параметры рамки */
-  box-shadow: 0 0 7px #666; /* Параметры тени */
+* {
+  padding: 0;
 }
 
-.name {
-  margin-left: 180px;
+body {
+  font: 16px 'Roboto';
+}
+
+.container {
+  margin: 0 auto;
+  /* padding: 0 20px; */
+  width: 620px;
+}
+
+header {
+  padding: 20px 0;
+}
+
+header img {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.photo,
+.author {
+  display: inline-block;
+}
+
+span {
+  display: block;
+  margin: 5px 0;
+}
+
+.author {
+  margin-left: 15px;
+  vertical-align: top;
+}
+
+main h3 {
+  color: #2c3e50;
+  text-align: center;
+}
+
+hr {
+  background-color: #eee;
+  border: none;
+  color: #eee;
+  height: 1px;
+}
+
+p {
+  color: #34495e;
+  text-align: left;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+li {
+  margin: 10px 0;
+  list-style-position: inside;
+}
+
+h3 {
+  color: grey;
+}
+
+.skills {
+  /* margin-left: 20px; */
+  text-align: center;
+}
+
+img {
+  display: inline-block;
+  padding-right: 5px;
+  vertical-align: middle;
 }
